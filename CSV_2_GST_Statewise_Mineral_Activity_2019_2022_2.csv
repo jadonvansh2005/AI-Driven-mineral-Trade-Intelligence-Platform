@@ -1,0 +1,103 @@
+State,Year,Mineral,GST_Collection_Cr_INR
+Odisha,2019,Iron Ore,2204
+Odisha,2019,Bauxite,2204
+Odisha,2019,Chromite,2204
+Odisha,2019,Manganese Ore,2204
+Odisha,2019,Graphite(Natural),2204
+Odisha,2020,Iron Ore,316
+Odisha,2020,Bauxite,316
+Odisha,2020,Chromite,316
+Odisha,2020,Manganese Ore,316
+Odisha,2020,Graphite(Natural),316
+Odisha,2021,Iron Ore,344
+Odisha,2021,Bauxite,344
+Odisha,2021,Chromite,344
+Odisha,2021,Manganese Ore,344
+Odisha,2021,Graphite(Natural),344
+Chhattisgarh,2019,Iron Ore,300
+Chhattisgarh,2019,Bauxite,300
+Chhattisgarh,2019,Limestone,300
+Chhattisgarh,2019,Diamond,300
+Chhattisgarh,2020,Iron Ore,280
+Chhattisgarh,2020,Bauxite,280
+Chhattisgarh,2020,Limestone,280
+Chhattisgarh,2020,Diamond,280
+Chhattisgarh,2021,Iron Ore,320
+Chhattisgarh,2021,Bauxite,320
+Chhattisgarh,2021,Limestone,320
+Chhattisgarh,2021,Diamond,320
+Jharkhand,2019,Iron Ore,245
+Jharkhand,2019,Manganese Ore,245
+Jharkhand,2019,Copper Ores & Conc,245
+Jharkhand,2019,Apatite,245
+Jharkhand,2020,Iron Ore,227
+Jharkhand,2020,Manganese Ore,227
+Jharkhand,2020,Copper Ores & Conc,227
+Jharkhand,2020,Apatite,227
+Jharkhand,2021,Iron Ore,255
+Jharkhand,2021,Manganese Ore,255
+Jharkhand,2021,Copper Ores & Conc,255
+Jharkhand,2021,Apatite,255
+Rajasthan,2019,Copper Ores & Conc,225
+Rajasthan,2019, Lead & Zinc Ore,225
+Rajasthan,2019, Lead Conc,225
+Rajasthan,2019, Zinc Conc,225
+Rajasthan,2019,Silver,225
+Rajasthan,2019,Lithium,225
+Rajasthan,2020,Copper Ores & Conc,215
+Rajasthan,2020, Lead & Zinc Ore,215
+Rajasthan,2020, Lead Conc,215
+Rajasthan,2020, Zinc Conc,215
+Rajasthan,2020,Silver,215
+Rajasthan,2020,Lithium,215
+Rajasthan,2021,Copper Ores & Conc,236
+Rajasthan,2021, Lead & Zinc Ore,236
+Rajasthan,2021, Lead Conc,236
+Rajasthan,2021, Zinc Conc,236
+Rajasthan,2021,Silver,236
+Rajasthan,2021,Lithium,236
+Karnataka,2019,Copper Ores & Conc,180
+Karnataka,2019,Iron Ore,180
+Karnataka,2019,Gold Ore,180
+Karnataka,2019,Gold,180
+Karnataka,2019,Garnet (abrasive),180
+Karnataka,2020,Copper Ores & Conc,172
+Karnataka,2020,Iron Ore,172
+Karnataka,2020,Gold Ore,172
+Karnataka,2020,Gold,172
+Karnataka,2020,Garnet (abrasive),172
+Karnataka,2021,Copper Ores & Conc,192
+Karnataka,2021,Iron Ore,192
+Karnataka,2021,Gold Ore,192
+Karnataka,2021,Gold,192
+Karnataka,2021,Garnet (abrasive),192
+Andhra Pradesh,2019,Lithium,136
+Andhra Pradesh,2019,Garnet (abrasive),136
+Andhra Pradesh,2019,Graphite(Natural),136
+Andhra Pradesh,2019,Bauxite,136
+Andhra Pradesh,2019,Limestone,136
+Andhra Pradesh,2019,Sillimanite,136
+Andhra Pradesh,2020,Lithium,130
+Andhra Pradesh,2020,Garnet (abrasive),130
+Andhra Pradesh,2020,Graphite(Natural),130
+Andhra Pradesh,2020,Bauxite,130
+Andhra Pradesh,2020,Limestone,130
+Andhra Pradesh,2020,Sillimanite,130
+Andhra Pradesh,2021,Lithium,143
+Andhra Pradesh,2021,Garnet (abrasive),143
+Andhra Pradesh,2021,Graphite(Natural),143
+Andhra Pradesh,2021,Bauxite,143
+Andhra Pradesh,2021,Limestone,143
+Andhra Pradesh,2021,Sillimanite,143
+Gujarat,2019,Limestone,987
+Gujarat,2019,Fluorite(graded),987
+Gujarat,2019,Salt (rock),987
+Gujarat,2019,Bauxite,987
+Gujarat,2020,Limestone,930
+Gujarat,2020,Fluorite(graded),930
+Gujarat,2020,Salt (rock),930
+Gujarat,2020,Bauxite,930
+Gujarat,2021,Limestone,1025
+Gujarat,2021,Fluorite(graded),1025
+Gujarat,2021,Salt (rock),1025
+Gujarat,2021,Bauxite,1025

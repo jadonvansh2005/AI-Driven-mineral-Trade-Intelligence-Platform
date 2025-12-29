@@ -1,0 +1,391 @@
+State,Mineral,Year,Quantity,Value_Cr
+India,Bauxite,2019,28123789,15437694
+Chhattisgarh,Bauxite,2019,1991455,1314345
+Goa,Bauxite,2019,163950,40960
+Gujarat,Bauxite,2019,10387092,4857172
+Jharkhand,Bauxite,2019,2111227,1399189
+Karnataka,Bauxite,2019,12050,5423
+Madhya Pradesh,Bauxite,2019,684288,479401
+Maharashtra,Bauxite,2019,1907543,1043950
+Odisha,Bauxite,2019,10839038,6278252
+Tamil Nadu,Bauxite,2019,27146,19002
+India,Chromite,2019,2915584,21214490
+Karnataka,Chromite,2019,1808,10884
+Maharashtra,Chromite,2019,90,432
+Odisha,Chromite,2019,2913686,21203174
+Jharkhand,Copper Ores & Conc,2019,275825,286142
+Madhya Pradesh,Copper Ores & Conc,2019,2615861,3315629
+Rajasthan,Copper Ores & Conc,2019,1167974,2946547
+Jharkhand,Gold Ore,2019,4153,0
+Karnataka,Gold Ore,2019,558803,0
+India,Gold,2019,1323,3214623
+Jharkhand,Gold,2019,13,35871
+Karnataka,Gold,2019,1310,3178752
+India,Iron Ore,2019,158108,223206636
+Andhra Pradesh,Iron Ore,2019,493,283258
+Chhattisgarh,Iron Ore,2019,26718,52780037
+Goa,Iron Ore,2019,1794,2132157
+Jharkhand,Iron Ore,2019,19198,16494215
+Karnataka,Iron Ore,2019,25036,34659850
+Madhya Pradesh,Iron Ore,2019,2447,1475651
+Maharashtra,Iron Ore,2019,1420,1500657
+Odisha,Iron Ore,2019,79856,112112226
+Rajasthan,Iron Ore,2019,1146,1768585
+Telangana,Iron Ore,2019,0,0
+India,Lead & Zinc Ore,2019,10453038,0
+Rajasthan,Lead & Zinc Ore,2019,10453038,0
+India,Lead Conc.,2019,261857,7885122
+Rajasthan,Lead Conc.,2019,261857,7885122
+India,Zinc Conc.,2019,1473811,34943088
+Rajasthan,Zinc Conc.,2019,1473811,34943088
+India,Manganese Ore,2019,2166947,8545510
+Andhra Pradesh,Manganese Ore,2019,186632,328949
+Gujarat,Manganese Ore,2019,46153,19633
+Jharkhand,Manganese Ore,2019,509,3161
+Karnataka,Manganese Ore,2019,145623,410733
+Madhya Pradesh,Manganese Ore,2019,766776,3334907
+Maharashtra,Manganese Ore,2019,620672,2803625
+Odisha,Manganese Ore,2019,390233,1616875
+Rajasthan,Manganese Ore,2019,3457,10350
+Telangana,Manganese Ore,2019,6892,17277
+India,Silver,2019,426443,15212374
+Karnataka,Silver,2019,122,4048
+Rajasthan,Silver,2019,426321,15208326
+India,Tin Conc.,2019,13541,9231
+Chhattisgarh,Tin Conc.,2019,13541,9231
+India,Apatite,2019,110,387
+Andhra Pradesh,Apatite,2019,110,387
+India,Phosphorite,2019,1571863,3763823
+Madhya Pradesh,Phosphorite,2019,66260,55602
+Rajasthan,Phosphorite,2019,1505603,3708221
+India,Diamond,2019,36044,621441
+Madhya Pradesh,Diamond,2019,36044,621441
+India,Fluorite(graded),2019,2333,12965
+Maharashtra,Fluorite(graded),2019,2333,12965
+India,Flint Stone,2019,253,76
+Jharkhand,Flint Stone,2019,253,76
+India,Garnet (abrasive),2019,82001,648124
+Andhra Pradesh,Garnet (abrasive),2019,55583,471079
+Odisha,Garnet (abrasive),2019,14767,93564
+Rajasthan,Garnet (abrasive),2019,958,1744
+Tamil Nadu,Garnet (abrasive),2019,10693,81737
+India,Graphite(Natural),2019,135528,106487
+Jharkhand,Graphite(Natural),2019,36270,22914
+Kerala,Graphite(Natural),2019,650,5200
+Odisha,Graphite(Natural),2019,7783,4865
+Tamil Nadu,Graphite(Natural),2019,90825,73508
+India,Kyanite,2019,2901,14180
+Maharashtra,Kyanite,2019,2901,14180
+India,Sillimanite,2019,69942,509314
+Andhra Pradesh,Sillimanite,2019,42409,340841
+Kerala,Sillimanite,2019,5121,49585
+Maharashtra,Sillimanite,2019,9019,27133
+Meghalaya,Sillimanite,2019,,
+Odisha,Sillimanite,2019,13393,91755
+India,Limestone,2019,307001,68673970
+Andhra Pradesh,Limestone,2019,32579,6556564
+Assam,Limestone,2019,777,230415
+Bihar,Limestone,2019,459,172141
+Chhattisgarh,Limestone,2019,27667,7013331
+Gujarat,Limestone,2019,25622,4370924
+Himachal Pradesh,Limestone,2019,12390,2180979
+Jammu & Kashmir,Limestone,2019,1232,395375
+Jharkhand,Limestone,2019,1076,509938
+Karnataka,Limestone,2019,27062,4325671
+Kerala,Limestone,2019,487,353323
+Madhya Pradesh,Limestone,2019,39430,8868182
+Maharashtra,Limestone,2019,13036,2842122
+Meghalaya,Limestone,2019,3834,2622258
+Odisha,Limestone,2019,4532,1489611
+Rajasthan,Limestone,2019,67336,15253871
+Tamil Nadu,Limestone,2019,23008,6623612
+Telangana,Limestone,2019,23878,4437332
+Uttar Pradesh,Limestone,2019,2596,428321
+India,Limeshell,2019,10353,28613
+Karnataka,Limeshell,2019,1221,1258
+Kerala,Limeshell,2019,9132,27355
+India,Magnesite,2019,327663,827072
+Karnataka,Magnesite,2019,8161,39962
+Tamil Nadu,Magnesite,2019,264913,705318
+Uttarakhand,Magnesite,2019,54589,81792
+India,Siliceous Earth,2019,47386,20735
+Rajasthan,Siliceous Earth,2019,47386,20735
+India,Selenite,2019,3103,6206
+Rajasthan,Selenite,2019,3103,6206
+India,Sulphur,2019,473322,0
+Assam,Sulphur,2019,4312,0
+Bihar,Sulphur,2019,5561,0
+Gujarat,Sulphur,2019,101743,0
+Haryana,Sulphur,2019,178688,0
+Kerala,Sulphur,2019,32169,0
+Maharashtra,Sulphur,2019,56670,0
+Odisha,Sulphur,2019,0,0
+Uttar Pradesh,Sulphur,2019,47836,0
+West Bengal,Sulphur,2019,46343,0
+India,Vermiculite,2019,23279,10556
+Andhra Pradesh,Vermiculite,2019,21890,7986
+Rajasthan,Vermiculite,2019,421,400
+Tamil Nadu,Vermiculite,2019,968,2170
+India,Wollastonite,2019,175348,150313
+Rajasthan,Wollastonite,2019,175348,150313
+Rajasthan,Lithium,2019,261857,7885122
+India,Bauxite,2020,24745487,14865504
+Chhattisgarh,Bauxite,2020,1954234,1365345
+Goa,Bauxite,2020,0,0
+Gujarat,Bauxite,2020,5881257,3127056
+Jharkhand,Bauxite,2020,2289825,1642791
+Karnataka,Bauxite,2020,386,171
+Madhya Pradesh,Bauxite,2020,676478,543776
+Maharashtra,Bauxite,2020,1946032,942724
+Odisha,Bauxite,2020,11990006,7238829
+Tamil Nadu,Bauxite,2020,7269,4812
+India,Chromite,2020,3727780,31937475
+Karnataka,Chromite,2020,785,3768
+Maharashtra,Chromite,2020,1,5
+Odisha,Chromite,2020,3726994,31933702
+Jharkhand,Copper Ores & Conc,2020,323658,332320
+Madhya Pradesh,Copper Ores & Conc,2020,2483517,3128301
+Rajasthan,Copper Ores & Conc,2020,1174039,3045512
+Jharkhand,Gold Ore,2020,5581,0
+Karnataka,Gold Ore,2020,576699,0
+India,Gold,2020,1595,4362410
+Jharkhand,Gold,2020,15,45424
+Karnataka,Gold,2020,1580,4316986
+India,Iron Ore,2020,194584,252291800
+Andhra Pradesh,Iron Ore,2020,485,264799
+Chhattisgarh,Iron Ore,2020,33285,60676299
+Goa,Iron Ore,2020,9170,11555369
+Jharkhand,Iron Ore,2020,21226,14623291
+Karnataka,Iron Ore,2020,26483,44516152
+Madhya Pradesh,Iron Ore,2020,1772,767339
+Maharashtra,Iron Ore,2020,1321,1152443
+Odisha,Iron Ore,2020,99614,115628185
+Rajasthan,Iron Ore,2020,1228,3107923
+Telangana,Iron Ore,2020,0,0
+India,Lead & Zinc Ore,2020,11881238,0
+Rajasthan,Lead & Zinc Ore,2020,11881238,0
+India,Lead Conc.,2020,268047,9669267
+Rajasthan,Lead Conc.,2020,268047,9669267
+India,Zinc Conc.,2020,1484244,43385599
+Rajasthan,Zinc Conc.,2020,1484244,43385599
+India,Manganese Ore,2020,2395134,16248429
+Andhra Pradesh,Manganese Ore,2020,232257,729003
+Gujarat,Manganese Ore,2020,43057,20605
+Jharkhand,Manganese Ore,2020,508,3440
+Karnataka,Manganese Ore,2020,261372,1159755
+Madhya Pradesh,Manganese Ore,2020,650316,4532518
+Maharashtra,Manganese Ore,2020,604300,6181596
+Odisha,Manganese Ore,2020,587517,3547363
+Rajasthan,Manganese Ore,2020,2545,7635
+Telangana,Manganese Ore,2020,13262,66514
+India,Silver,2020,460811,18320758
+Karnataka,Silver,2020,169,6639
+Rajasthan,Silver,2020,460642,18314119
+India,Tin Conc.,2020,12121,8736
+Chhattisgarh,Tin Conc.,2020,12121,8736
+India,Apatite,2020,0,0
+Andhra Pradesh,Apatite,2020,0,0
+India,Phosphorite,2020,1124440,2996711
+Madhya Pradesh,Phosphorite,2020,149700,129033
+Rajasthan,Phosphorite,2020,974740,2867678
+India,Diamond,2020,36491,639562
+Madhya Pradesh,Diamond,2020,36491,639562
+India,Fluorite(graded),2020,1175,6733
+Maharashtra,Fluorite(graded),2020,1175,6733
+India,Flint Stone,2020,26,8
+Jharkhand,Flint Stone,2020,26,8
+India,Garnet (abrasive),2020,85413,787302
+Andhra Pradesh,Garnet (abrasive),2020,51243,565747
+Odisha,Garnet (abrasive),2020,22076,133979
+Rajasthan,Garnet (abrasive),2020,1482,2567
+Tamil Nadu,Garnet (abrasive),2020,10612,85009
+India,Graphite(Natural),2020,122438,94158
+Jharkhand,Graphite(Natural),2020,10343,11450
+Kerala,Graphite(Natural),2020,660,5280
+Odisha,Graphite(Natural),2020,16374,10684
+Tamil Nadu,Graphite(Natural),2020,95061,66744
+India,Kyanite,2020,3253,13458
+Maharashtra,Kyanite,2020,3253,13458
+India,Sillimanite,2020,68131,535949
+Andhra Pradesh,Sillimanite,2020,37109,321945
+Kerala,Sillimanite,2020,9254,87400
+Maharashtra,Sillimanite,2020,6196,22739
+Meghalaya,Sillimanite,2020,0,0
+Odisha,Sillimanite,2020,15572,103865
+India,Limestone,2020,314669,73878426
+Andhra Pradesh,Limestone,2020,35515,7446888
+Assam,Limestone,2020,1594,444644
+Bihar,Limestone,2020,190,104495
+Chhattisgarh,Limestone,2020,32156,8622865
+Gujarat,Limestone,2020,25813,5110332
+Himachal Pradesh,Limestone,2020,11009,2185480
+Jammu & Kashmir,Limestone,2020,1032,200602
+Jharkhand,Limestone,2020,1146,501660
+Karnataka,Limestone,2020,29751,5475530
+Kerala,Limestone,2020,376,325069
+Madhya Pradesh,Limestone,2020,36164,8405039
+Maharashtra,Limestone,2020,12124,2840194
+Meghalaya,Limestone,2020,5095,2540552
+Odisha,Limestone,2020,4752,1598449
+Rajasthan,Limestone,2020,66906,15908982
+Tamil Nadu,Limestone,2020,23670,6692906
+Telangana,Limestone,2020,24720,4959547
+Uttar Pradesh,Limestone,2020,2656,515192
+India,Limeshell,2020,12344,34774
+Karnataka,Limeshell,2020,4003,7779
+Kerala,Limeshell,2020,8341,26995
+India,Magnesite,2020,299149,749297
+Karnataka,Magnesite,2020,8391,34997
+Tamil Nadu,Magnesite,2020,223406,623084
+Uttarakhand,Magnesite,2020,67352,91216
+India,Siliceous Earth,2020,77270,55340
+Rajasthan,Siliceous Earth,2020,77270,55340
+India,Selenite,2020,4328,8656
+Rajasthan,Selenite,2020,4328,8656
+India,Sulphur,2020,560825,0
+Assam,Sulphur,2020,6559,0
+Bihar,Sulphur,2020,8159,0
+Gujarat,Sulphur,2020,100952,0
+Haryana,Sulphur,2020,190946,0
+Kerala,Sulphur,2020,33288,0
+Maharashtra,Sulphur,2020,48991,0
+Odisha,Sulphur,2020,86734,0
+Uttar Pradesh,Sulphur,2020,46618,0
+West Bengal,Sulphur,2020,38580,0
+India,Vermiculite,2020,9042,8162
+Andhra Pradesh,Vermiculite,2020,7225,2441
+Rajasthan,Vermiculite,2020,127,127
+Tamil Nadu,Vermiculite,2020,1690,5594
+India,Wollastonite,2020,166186,158823
+Rajasthan,Wollastonite,2020,166186,158823
+Rajasthan,Lithium,2020,268047,9669267
+India,Bauxite,2021,22312681,15020673
+Chhattisgarh,Bauxite,2021,2558453,2053953
+Goa,Bauxite,2021,4378,876
+Gujarat,Bauxite,2021,3101577,1598056
+Jharkhand,Bauxite,2021,2590720,2142293
+Karnataka,Bauxite,2021,0,0
+Madhya Pradesh,Bauxite,2021,581391,454848
+Maharashtra,Bauxite,2021,2028422,970673
+Odisha,Bauxite,2021,11447740,7799974
+Tamil Nadu,Bauxite,2021,0,0
+India,Chromite,2021,3480928,32109182
+Karnataka,Chromite,2021,0,0
+Maharashtra,Chromite,2021,17,82
+Odisha,Chromite,2021,3480911,32109100
+Jharkhand,Copper Ores & Conc,2021,183772,173106
+Madhya Pradesh,Copper Ores & Conc,2021,2414514,3522250
+Rajasthan,Copper Ores & Conc,2021,1222423,4047407
+Jharkhand,Gold Ore,2021,4618,0
+Karnataka,Gold Ore,2021,545077,0
+India,Gold,2021,1648,4763056
+Jharkhand,Gold,2021,8,24986
+Karnataka,Gold,2021,1640,4738070
+India,Iron Ore,2021,200955,342628915
+Andhra Pradesh,Iron Ore,2021,680,417688
+Chhattisgarh,Iron Ore,2021,34546,81490207
+Goa,Iron Ore,2021,8040,10965978
+Jharkhand,Iron Ore,2021,21848,17786135
+Karnataka,Iron Ore,2021,28724,70398115
+Madhya Pradesh,Iron Ore,2021,2679,1265424
+Maharashtra,Iron Ore,2021,940,1201680
+Odisha,Iron Ore,2021,102177,155456128
+Rajasthan,Iron Ore,2021,1317,3646154
+Telangana,Iron Ore,2021,4,1406
+India,Lead & Zinc Ore,2021,12613866,0
+Rajasthan,Lead & Zinc Ore,2021,12613866,0
+India,Lead Conc.,2021,306399,11429378
+Rajasthan,Lead Conc.,2021,306399,11429378
+India,Zinc Conc.,2021,1539655,49799283
+Rajasthan,Zinc Conc.,2021,1539655,49799283
+India,Manganese Ore,2021,2589271,19717530
+Andhra Pradesh,Manganese Ore,2021,166872,737163
+Gujarat,Manganese Ore,2021,18362,11183
+Jharkhand,Manganese Ore,2021,4785,43579
+Karnataka,Manganese Ore,2021,294711,1456474
+Madhya Pradesh,Manganese Ore,2021,831348,6840494
+Maharashtra,Manganese Ore,2021,731458,6941500
+Odisha,Manganese Ore,2021,516865,3583768
+Rajasthan,Manganese Ore,2021,7497,22307
+Telangana,Manganese Ore,2021,17373,81062
+India,Silver,2021,557691,21179042
+Karnataka,Silver,2021,173,6609
+Rajasthan,Silver,2021,557518,21172433
+India,Tin Conc.,2021,16758,10139
+Chhattisgarh,Tin Conc.,2021,16758,10139
+India,Apatite,2021,0,0
+Andhra Pradesh,Apatite,2021,0,0
+India,Phosphorite,2021,1534269,3771584
+Madhya Pradesh,Phosphorite,2021,113303,98920
+Rajasthan,Phosphorite,2021,1420966,3672664
+India,Diamond,2021,39699,410737
+Madhya Pradesh,Diamond,2021,39699,410737
+India,Fluorite(graded),2021,1313,7097
+Maharashtra,Fluorite(graded),2021,1313,7097
+India,Flint Stone,2021,0,0
+Jharkhand,Flint Stone,2021,0,0
+India,Garnet (abrasive),2021,158154,1636667
+Andhra Pradesh,Garnet (abrasive),2021,111390,1299361
+Odisha,Garnet (abrasive),2021,34170,242053
+Rajasthan,Garnet (abrasive),2021,5781,19084
+Tamil Nadu,Garnet (abrasive),2021,6813,76169
+India,Graphite(Natural),2021,33558,25656
+Jharkhand,Graphite(Natural),2021,18734,17094
+Kerala,Graphite(Natural),2021,150,1200
+Odisha,Graphite(Natural),2021,14674,7362
+Tamil Nadu,Graphite(Natural),2021,0,0
+India,Kyanite,2021,7818,23002
+Maharashtra,Kyanite,2021,7818,23002
+India,Sillimanite,2021,81638,669340
+Andhra Pradesh,Sillimanite,2021,53749,472572
+Kerala,Sillimanite,2021,7548,71193
+Maharashtra,Sillimanite,2021,3184,10741
+Meghalaya,Sillimanite,2021,459,3335
+Odisha,Sillimanite,2021,16698,111499
+India,Limestone,2021,338552,74407420
+Andhra Pradesh,Limestone,2021,38909,8193623
+Assam,Limestone,2021,1432,461205
+Bihar,Limestone,2021,43,24899
+Chhattisgarh,Limestone,2021,36352,8283771
+Gujarat,Limestone,2021,24948,4884583
+Himachal Pradesh,Limestone,2021,11500,2357252
+Jammu & Kashmir,Limestone,2021,1262,332351
+Jharkhand,Limestone,2021,1191,516664
+Karnataka,Limestone,2021,30052,5155861
+Kerala,Limestone,2021,444,262352
+Madhya Pradesh,Limestone,2021,42744,8820080
+Maharashtra,Limestone,2021,14152,3134443
+Meghalaya,Limestone,2021,6593,2786265
+Odisha,Limestone,2021,4968,1607827
+Rajasthan,Limestone,2021,74036,16197297
+Tamil Nadu,Limestone,2021,20277,5507871
+Telangana,Limestone,2021,27250,5283048
+Uttar Pradesh,Limestone,2021,2399,598028
+India,Limeshell,2021,10893,39593
+Karnataka,Limeshell,2021,760,1475
+Kerala,Limeshell,2021,10133,38118
+India,Magnesite,2021,195033,503919
+Karnataka,Magnesite,2021,8419,43120
+Tamil Nadu,Magnesite,2021,122408,362627
+Uttarakhand,Magnesite,2021,64206,98172
+India,Siliceous Earth,2021,58875,57457
+Rajasthan,Siliceous Earth,2021,58875,57457
+India,Selenite,2021,469,939
+Rajasthan,Selenite,2021,469,939
+India,Sulphur,2021,825172,0
+Assam,Sulphur,2021,8051,0
+Bihar,Sulphur,2021,7330,0
+Gujarat,Sulphur,2021,95343,0
+Haryana,Sulphur,2021,180431,0
+Kerala,Sulphur,2021,155695,0
+Maharashtra,Sulphur,2021,58903,0
+Odisha,Sulphur,2021,231075,0
+Uttar Pradesh,Sulphur,2021,47691,0
+West Bengal,Sulphur,2021,40653,0
+India,Vermiculite,2021,6055,7078
+Andhra Pradesh,Vermiculite,2021,4790,2891
+Rajasthan,Vermiculite,2021,0,0
+Tamil Nadu,Vermiculite,2021,1265,4187
+India,Wollastonite,2021,153049,126700
+Rajasthan,Wollastonite,2021,153049,126700
+Rajasthan,Lithium,2021,306399,11429378
